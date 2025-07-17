@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 4.3.3
+_src_path: gh:epics-containers/ioc-template
+description: A generic IOC to control an FW102 filter wheel.
+git_platform: github.com
+github_org: epics-containers
+name: ioc-fw102
+repo_uri: git@github.com:epics-containers/ioc-fw102.git
+rtems: false
